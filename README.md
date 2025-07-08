@@ -1,3 +1,3 @@
 # apnacollege-demo
 <br>
-Author - Umair Raza
+Author - Umair {Apna College}
